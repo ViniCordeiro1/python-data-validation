@@ -14,7 +14,7 @@ Projeto que simula validação de dados com testes unitários usando Python e Py
 ## 📦 Como executar localmente
 
 ```bash
-git clone https://github.com/SEU_USUARIO/python-data-validation.git
+git clone https://github.com/ViniCordeiro/python-data-validation.git
 cd python-data-validation
 python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate no Windows
